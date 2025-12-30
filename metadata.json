@@ -1,0 +1,8 @@
+{
+  "name": "Moallem Al-Hawa - AI Study Companion",
+  "description": "An interactive AI tutor application that supports Arabic curriculum studies through real-time audio and video interaction powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
